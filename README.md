@@ -1,0 +1,2 @@
+# CollegeManagement-Django
+ 
